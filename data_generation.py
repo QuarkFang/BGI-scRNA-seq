@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
+import shutil
 from tqdm import tqdm
 from scipy.io import mmwrite
 from scipy.sparse import csr_matrix
@@ -22,7 +23,22 @@ def generation(filepath, filenum, rows=None, cols=None):
     elif rows is not None and cols is None:
         raise ValueError("It's not supported now")
     else:
-        raise ValueError("It's not supported now")
+        if not isinstance(cols, int):
+            raise ValueError("'cols' should be int")
+        if not isinstance(rows, int):
+            raise ValueError("'rows' should be int")
+        data = generation_data_rows_cols(filepath, filenum, rows, cols)
+        write_data(data)
+
+
+def generation_data_rows_cols(filepath, filenum, rows, cols):
+    data = []
+    genes = read_tsv(filepath + '/genes.tsv')[0:rows]
+    for i in range(filenum):
+        matrix = generation_mtx(rows, cols)
+        barcodes = read_tsv(filepath + '/barcodes.tsv')[i*cols:(i+1)*cols]
+        data.append((matrix, genes, barcodes))
+    return data
 
 
 def generation_data_rows(filepath, filenum, rows, cols):
@@ -43,6 +59,8 @@ def write_data(data):
     for single in tqdm(enumerate(data)):
         (i, (matrix, genes, barcodes)) = single
         dir = './data/data'+str(i)
+        if os.path.exists(dir):
+            shutil.rmtree(dir)
         os.mkdir(dir)
         mmwrite(dir + '/matrix.mtx', matrix)
         genes.to_csv(dir + '/genes.tsv', sep='\t', index=False, header=False)
@@ -50,4 +68,4 @@ def write_data(data):
 
 
 if __name__ == '__main__':
-    generation('./data/tsv/', 10, cols=2000)
+    generation('./data/tsv/', 10, rows=100, cols=10)
