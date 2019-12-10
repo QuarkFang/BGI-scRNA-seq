@@ -68,4 +68,4 @@ def write_data(data):
 
 
 if __name__ == '__main__':
-    generation('./data/tsv/', 10, rows=100, cols=10)
+    generation('./data/tsv/', 10, rows=99, cols=10)

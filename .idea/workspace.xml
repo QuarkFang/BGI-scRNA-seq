@@ -2,127 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04416389-e5cb-45d2-8b80-38005e4036ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scscope_development.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_generation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_merge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/BGI_FINAL$read.coverage" NAME="read Coverage Results" MODIFIED="1575439568810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BGI_FINAL$data_merge.coverage" NAME="data_merge Coverage Results" MODIFIED="1575448262419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BGI_FINAL$data_generation.coverage" NAME="data_generation Coverage Results" MODIFIED="1575447876426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BGI_FINAL$read.coverage" NAME="read Coverage Results" MODIFIED="1575957510946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BGI_FINAL$run_development.coverage" NAME="run_development Coverage Results" MODIFIED="1575961146209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BGI_FINAL$data_merge.coverage" NAME="data_merge Coverage Results" MODIFIED="1575945439897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BGI_FINAL$csnmi.coverage" NAME="csnmi Coverage Results" MODIFIED="1575959965607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BGI_FINAL$data_generation.coverage" NAME="data_generation Coverage Results" MODIFIED="1575941538164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-249947259">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="mtx" value="2" />
-          <entry key="pstat" value="1" />
-          <entry key="py" value="20" />
-          <entry key="tsv" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="19" />
-          <entry key="py" value="4121" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="4121" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_generation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1575447876408" expanded="true" signature="175:234" ph="..." />
-                <marker date="1575447876408" expanded="true" signature="1130:1412" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_merge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1575448262386" expanded="true" signature="161:720" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/read.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1012">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1575440616122" expanded="true" signature="404:409" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/save.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-                <marker date="1575448133364" expanded="true" signature="121:126" ph="..." />
-                <marker date="1575448133364" expanded="true" signature="121:284" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="R Script" />
       </list>
     </option>
   </component>
@@ -134,86 +43,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/main_generation.py" />
-        <option value="$PROJECT_DIR$/read.py" />
-        <option value="$PROJECT_DIR$/data/save.py" />
-        <option value="$PROJECT_DIR$/data_generation.py" />
-        <option value="$PROJECT_DIR$/save.py" />
-        <option value="$PROJECT_DIR$/data_merge.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-105" />
-    <option name="y" value="-5" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
-  </component>
+  <component name="ProjectId" id="1UmiYVKHuyMH00B5QBIPc9OkIaX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BGI_FINAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BGI_FINAL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BGI_FINAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BGI_FINAL" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BGI_FINAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BGI_FINAL" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BGI_FINAL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BGI_FINAL" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="data0" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BGI" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.data_merge">
+  <component name="RunManager" selected="Python.run_development">
     <configuration name="data_generation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BGI_FINAL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,18 +125,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="run_development" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BGI_FINAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_development.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.data_generation" />
-      <item itemvalue="Python.read" />
       <item itemvalue="Python.data_merge" />
+      <item itemvalue="Python.read" />
+      <item itemvalue="Python.run_development" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_development" />
+        <item itemvalue="Python.read" />
         <item itemvalue="Python.data_merge" />
         <item itemvalue="Python.data_generation" />
-        <item itemvalue="Python.read" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -303,56 +184,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575353350391</updated>
+      <workItem from="1575968228379" duration="279000" />
+      <workItem from="1575968545055" duration="1577000" />
+      <workItem from="1575970579687" duration="470000" />
+      <workItem from="1575971701789" duration="268000" />
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3432624" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.5106383" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.49858356" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.48794326" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575968263827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1575968263827" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1575969723760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575969723760" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1575971975768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575971975768" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1575971975768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575971975768" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1575971975768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575971975768" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1575971975768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575971975768" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1575971731598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575971731598" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/data_merge.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/run_development.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/save.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/run_development.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -362,141 +245,7 @@
       </configuration>
     </watches-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/data0/genes.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/multiprocessing/spawn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="278" selection-start-line="278" selection-end-line="278" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/runpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="262" selection-start-line="262" selection-end-line="262" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scipy/io/mmio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-539">
-          <caret line="316" selection-start-line="316" selection-end-line="316" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scipy/sparse/construct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="547" selection-start-line="547" selection-end-line="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pandas/core/reshape/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="2010" selection-start-line="2010" selection-end-line="2010" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/save.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="1062" column="4" selection-start-line="1062" selection-start-column="4" selection-end-line="1062" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="324" selection-start-line="324" selection-end-line="324" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/data0/matrix.mtx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6840">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/save.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-            <marker date="1575448133364" expanded="true" signature="121:126" ph="..." />
-            <marker date="1575448133364" expanded="true" signature="121:284" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1575440616122" expanded="true" signature="404:409" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_generation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1575447876408" expanded="true" signature="175:234" ph="..." />
-            <marker date="1575447876408" expanded="true" signature="1130:1412" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1575448262386" expanded="true" signature="161:720" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BGI_FINAL$run_development.coverage" NAME="run_development Coverage Results" MODIFIED="1575971898613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
